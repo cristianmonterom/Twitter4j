@@ -1,7 +1,4 @@
-//Teoricamente vale sincronizar
-// este es un cambio hecho en el branch cristian
-//otro cambio hecho en cristian
-//tercer cambio cristian
+
 /*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
