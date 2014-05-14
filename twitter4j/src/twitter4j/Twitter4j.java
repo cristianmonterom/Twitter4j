@@ -9,7 +9,8 @@ import twitter4j.conf.ConfigurationBuilder;
 
 /**
  *
- * @author cristian
+ * @author cristian montero
+ * 
  */
 public class Twitter4j {
 
